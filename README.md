@@ -33,4 +33,3 @@ Note: Raw datasets are not included in this repository. See `docs/data_sources.m
    - `04_visualizations.ipynb`
 
 ## Results Summary
-(Brief bullet summary of 3–5 findings—add once your notebooks are uploaded.)
